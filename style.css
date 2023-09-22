@@ -1,0 +1,98 @@
+*{
+    margin: 20px;
+    padding: 0;
+
+}
+#logo {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+img {
+    width: 100px;
+}
+#navbar {
+    justify-content: center;
+    text-align: center;
+    border-radius: 44% 56% 45% 55% / 57% 0% 100% 43% ;
+    background-color: pink
+}
+#main{
+    margin-left: 40%;
+    margin-right: 40%;
+
+    margin-top: 50px;
+    padding: 50px;
+    border: 1px solid black;
+    width: 28px;
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    font-family: 'Lobster Two', cursive;
+}
+#img_input {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#header {
+    margin: -10px;
+}
+#Age {
+    font-family: 'Sriracha', cursive;
+}
+.text_input {
+    font-family: 'Sriracha', cursive;
+    border-radius: 20px;
+    height: 50px;
+}
+button {
+    padding: 25px;
+    border-radius: 107px 0px 50px 50px;
+    background-color: rgb(255, 132, 153);
+    cursor: pointer;
+    font-family: 'Sriracha', cursive;;
+    text-decoration: none;
+}
+button:hover {
+    background-color: rgb(255, 61, 100);
+    padding: 32px;
+}
+/* Home page */
+#content {
+    justify-content: center;
+    text-align: center;
+    border-radius: 44% 56% 45% 55% / 57% 0% 100% 43% ;
+    background-color: pink;
+}
+#history {
+    margin-left: 45%;
+    text-align: center;
+}
+#Questiona {
+    justify-content: center;
+    text-align: center;
+    border-radius: 44% 56% 45% 55% / 57% 0% 100% 43% ;
+    background-color: pink;
+}
+small {
+    font-size: 1.5rem;
+}
+#Questionb {
+    justify-content: center;
+    text-align: center;
+    border-radius: 45% 55% 48% 52% / 100% 53% 47% 0%  ;
+    background-color:#ED6B58;
+    color: #3A3E59;
+}
+#Questionc {
+    justify-content: center;
+    text-align: center;
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
+    background-color:#FFB567;
+    color: #3A3E59;
+
+}
+#btnn {
+    margin-left: 45%;
+}
